@@ -44,14 +44,14 @@ public class GameManamge : MonoBehaviour
         if (_view)
         {
             cc.offset.x = 0.04f;
-            cc.offset.y = 2.5f;
+            cc.offset.y = 2.15f;
             cc.offset.z = 10.5f;
         }
         else
         {
-            cc.offset.x = 0.3f;
-            cc.offset.z = 0.35f;
-            cc.offset.z = 0.5f;
+            cc.offset.x = 0f;
+            cc.offset.z = 2.15f;
+            cc.offset.z = 8f;
         }
         _view = !_view;
     }

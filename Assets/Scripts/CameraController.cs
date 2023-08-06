@@ -26,7 +26,7 @@ namespace RootMotion {
 
 		[Header("Position")]
 		public bool smoothFollow; // If > 0, camera will smoothly interpolate towards the target
-		public Vector3 offset = new Vector3(0, 1.5f, 0.5f); // The offset from target relative to camera rotation
+		public Vector3 offset = new Vector3(0, 2.15f, 8f); // The offset from target relative to camera rotation
 		public float followSpeed = 10f; // Smooth follow speed
 
 		[Header("Rotation")]
