@@ -12,7 +12,7 @@ public class PlayerContrl : MonoBehaviour
     
     void Start()
     {
-         speed = 7f;
+         speed = 10f;
          controller = GetComponent<CharacterController>();
     }
     void Update()

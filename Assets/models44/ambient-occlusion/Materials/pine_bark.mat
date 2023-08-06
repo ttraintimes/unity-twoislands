@@ -25,10 +25,10 @@ Material:
         m_Offset: {x: 0, y: -1}
     m_Floats:
     - _AO: 0
-    - _BaseLight: 0.239
+    - _BaseLight: 0.16
     - _SquashAmount: 1
     m_Colors:
-    - _Color: {r: 0.2830189, g: 0.2830189, b: 0.2830189, a: 1}
+    - _Color: {r: 0.745283, g: 0.745283, b: 0.745283, a: 1}
     - _Scale: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}

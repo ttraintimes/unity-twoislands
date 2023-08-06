@@ -114,7 +114,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 16bb16755728be74f95654f1e5210d9e, type: 3}
+        m_Texture: {fileID: 2800000, guid: eed367110da1c4f4d91df60735661f55, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TranslucencyMap:
@@ -125,9 +125,9 @@ Material:
     - _Cutoff: 0.3
     - _SquashAmount: 1
     m_Colors:
-    - _Color: {r: 0.24528301, g: 0.2233001, b: 0.2233001, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Scale: {r: 1, g: 1, b: 1, a: 1}
-    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
 --- !u!21 &2100002
@@ -154,11 +154,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 16bb16755728be74f95654f1e5210d9e, type: 3}
+        m_Texture: {fileID: 2800000, guid: eed367110da1c4f4d91df60735661f55, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadowTex:
-        m_Texture: {fileID: 2800000, guid: c3b83bad977230e4997f6201fb7f87d2, type: 3}
+        m_Texture: {fileID: 2800000, guid: 77398cf7e60fa3d4bb689bf7a17b2afd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TranslucencyMap:
@@ -172,9 +172,9 @@ Material:
     - _SquashAmount: 1
     - _TranslucencyViewDependency: 0.11
     m_Colors:
-    - _Color: {r: 0.2735849, g: 0.25680846, b: 0.25680846, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Scale: {r: 1, g: 1, b: 1, a: 1}
-    - _TranslucencyColor: {r: 0.1509434, g: 0.1427618, b: 0.06763973, a: 1}
+    - _TranslucencyColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
 --- !u!43 &4300000
@@ -575,7 +575,7 @@ MonoBehaviour:
     childGroupIDs: 130000002a0000003000000037000000
     lodQualityMultiplier: 1
     geometryMode: 0
-    materialBranch: {fileID: 2100000, guid: b6ef546da42846946bffc6dc01e765e8, type: 2}
+    materialBranch: {fileID: 0}
     materialBreak: {fileID: 0}
     materialFrond: {fileID: 0}
     height: {x: 10.987072, y: 12.818685}
@@ -842,7 +842,7 @@ MonoBehaviour:
     geometryMode: 2
     materialBranch: {fileID: 0}
     materialBreak: {fileID: 0}
-    materialFrond: {fileID: 2100000, guid: 1f09ca8c49cdca347a4b627e1ad0a843, type: 2}
+    materialFrond: {fileID: 0}
     height: {x: 3.6957526, y: 6.263617}
     radius: 0.5
     radiusCurve:
@@ -1080,7 +1080,7 @@ MonoBehaviour:
     geometryMode: 2
     materialBranch: {fileID: 0}
     materialBreak: {fileID: 0}
-    materialFrond: {fileID: 2100000, guid: 1f09ca8c49cdca347a4b627e1ad0a843, type: 2}
+    materialFrond: {fileID: 0}
     height: {x: 5.613873, y: 7.2872066}
     radius: 0.5
     radiusCurve:
@@ -1318,7 +1318,7 @@ MonoBehaviour:
     geometryMode: 2
     materialBranch: {fileID: 0}
     materialBreak: {fileID: 0}
-    materialFrond: {fileID: 2100000, guid: 1f09ca8c49cdca347a4b627e1ad0a843, type: 2}
+    materialFrond: {fileID: 0}
     height: {x: 5.750713, y: 6.950232}
     radius: 0.5
     radiusCurve:
@@ -1556,7 +1556,7 @@ MonoBehaviour:
     geometryMode: 2
     materialBranch: {fileID: 0}
     materialBreak: {fileID: 0}
-    materialFrond: {fileID: 2100000, guid: 1f09ca8c49cdca347a4b627e1ad0a843, type: 2}
+    materialFrond: {fileID: 0}
     height: {x: 3.5005012, y: 8.292585}
     radius: 0.5
     radiusCurve:
