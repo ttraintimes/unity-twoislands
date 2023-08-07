@@ -8,6 +8,8 @@ TagManager:
   - xiangzi
   - gate
   - npc
+  - npc2
+  - npc3
   layers:
   - Default
   - TransparentFX
