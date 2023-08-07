@@ -11,7 +11,7 @@ public class HighLightControl : MonoBehaviour
     void Start()
     {
         m_ho = GetComponent<HighlightableObject>();
-        m_ho.FlashingOn(Color.green, Color.gray, 1f);
+        m_ho.FlashingOn(Color.white, Color.gray, 1f);
     }
 
 }
