@@ -10,6 +10,7 @@ TagManager:
   - npc
   - npc2
   - npc3
+  - Interactable
   layers:
   - Default
   - TransparentFX
