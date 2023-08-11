@@ -11,6 +11,12 @@ TagManager:
   - npc2
   - npc3
   - Interactable
+  - Floor
+  - Flappy
+  - Pipe
+  - Pipeblank
+  - npc4
+  - npc5
   layers:
   - Default
   - TransparentFX

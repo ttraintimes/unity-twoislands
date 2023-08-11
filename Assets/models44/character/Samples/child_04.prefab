@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400000}
   - component: {fileID: 11100000}
+  - component: {fileID: 4405418855115988764}
   m_Layer: 0
   m_Name: child_04
   m_TagString: Untagged
@@ -68,6 +69,19 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 1
+--- !u!65 &4405418855115988764
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1.9697008, z: 1}
+  m_Center: {x: 0, y: 0.4848504, z: 0}
 --- !u!1 &100010
 GameObject:
   m_ObjectHideFlags: 0
@@ -117,7 +131,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b718ea908af319f4fb5a4951a00e6d68, type: 2}
+  - {fileID: 2100000, guid: 9e611e5d6b6df4f228ed6acc0e4121dc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
