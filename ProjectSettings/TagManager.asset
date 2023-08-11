@@ -17,6 +17,7 @@ TagManager:
   - Pipeblank
   - npc4
   - npc5
+  - mushroom
   layers:
   - Default
   - TransparentFX
@@ -26,7 +27,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - mushroomLayer
   - 
   - 
   - 
