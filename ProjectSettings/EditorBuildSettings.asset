@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/main.unity
     guid: f76d666d19fa3714986ed950db3d0b01
   - enabled: 1
-    path: Assets/paintgame/Scenes/paintgame.unity
+    path: Assets/Scenes/paintgame.unity
     guid: 284f3a07d9d5e974580f128aed5b841c
   - enabled: 1
     path: Assets/Scenes/jumpgame.unity
